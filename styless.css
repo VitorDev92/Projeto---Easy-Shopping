@@ -14,7 +14,7 @@
     display: inline-block;
     width: 60%;
     padding-left: 136px;
-    margin-top: 25%;
+    margin-top: 20%;
 }
 
 
@@ -118,7 +118,7 @@ header{
 
     img{
         position: static;
-        max-width: 900%;
+        max-width: 90%;
     }
 
     header{
